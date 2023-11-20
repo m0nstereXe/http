@@ -1,6 +1,6 @@
 # Set your server IP and port
 SERVER_IP="127.0.0.1"
-SERVER_PORT="8080"
+SERVER_PORT="8081"
 
 # Variables for storing session cookies
 SESSION_COOKIE=""
